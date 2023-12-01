@@ -1,0 +1,32 @@
+input {
+    border-radius: 20px;
+    margin-top: -100px;
+    width: 25%;
+    background: #222;
+}
+.num {
+    margin: 30px 580px;
+}
+.code {
+    margin:0px 580px;
+}
+button {
+        width: 15%;
+        margin-left: 665px;
+        border-radius: 20px;
+        background: #222;
+}
+body {
+    background: #222;
+}
+* {
+    height: 35px;
+}
+input:hover {
+    letter-spacing: 0.6px;
+    background: #2c2929;
+}
+button:hover {
+    letter-spacing: 0.6px;
+    background: #2c2929;
+}

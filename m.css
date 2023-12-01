@@ -1,0 +1,89 @@
+body {
+    background: #222;
+}
+* {
+    text-align: center;
+}
+.nn {
+    margin-left: 465px;
+    position: inline;
+    margin-top: -600px;
+}
+.mm {
+    margin-left: 780px;
+    margin-bottom: 190px;
+    position: inline;
+}
+form {
+    margin-left: 30px;
+}
+.hasan {
+    border: 3px solid #222;
+    border-radius: 15px;
+    width: 300px;
+    height: 60px;
+    padding-top: 30px;
+    cursor: context-menu;
+}
+.hasan:hover {
+    background: rgb(180, 170, 170);
+}
+.hany {
+    border: 3px solid #222;
+    border-radius: 15px;
+    width: 300px;
+    height: 60px;
+    padding-top: 30px;
+    cursor: context-menu;
+}
+.hany:hover {
+    background: rgb(180, 170, 170);
+}
+.mahmoud {
+    border: 3px solid #222;
+    border-radius: 15px;
+    width: 300px;
+    height: 60px;
+    padding-top: 30px;
+    cursor: context-menu;
+}
+.mahmoud:hover {
+    background: rgb(180, 170, 170);
+}
+.abrahim {
+    border: 3px solid #222;
+    border-radius: 15px;
+    width: 300px;
+    height: 60px;
+    padding-top: 30px;
+    cursor: context-menu;
+}
+.abrahim:hover {
+    background: rgb(180, 170, 170);
+}
+.omar {
+    border: 3px solid #222;
+    border-radius: 15px;
+    width: 300px;
+    height: 60px;
+    padding-top: 30px;
+    cursor: context-menu;
+}
+.omar:hover {
+    background: rgb(180, 170, 170);
+}
+.ahmed {
+    border: 3px solid #222;
+    border-radius: 15px;
+    width: 300px;
+    height: 60px;
+    padding-top: 30px;
+    cursor: context-menu;
+}
+.ahmed:hover {
+    background: rgb(180, 170, 170);
+}
+p {
+    font-size: 50px;
+    cursor: context-menu;
+}

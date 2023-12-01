@@ -1,0 +1,46 @@
+
+.modrs:hover {
+    background: rgb(202, 198, 198);
+    color: blue;
+    border: blue;
+}
+.modrs {
+    
+    margin-top: 140px;
+    position: inline;
+    margin-left: 775px;
+    border: 3px solid #222;
+    width: 100px;
+    height: 73px;
+    padding: 48px;
+    border-radius: 15px;
+    text-align: center;
+}
+.taleb {
+    padding-top: 60px;
+    position: inline;
+    margin-top: -175px;
+    margin-right: 250px;
+    border: 3px solid #222;
+    border-radius: 15px;
+    width: 200px;
+    height: 110px;
+    margin-left: 560px;
+    text-align: center;
+}
+.taleb:hover {
+    background: rgb(202, 198, 198);
+    color: blue;
+}
+.ok {
+    text-align: center;
+    margin-top: 185px;
+}
+h1 {
+    cursor: context-menu;
+}
+body {
+    background: #222;
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

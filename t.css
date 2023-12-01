@@ -1,0 +1,71 @@
+div {
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 30px auto;
+    width: 20%;
+    height: 475px;
+}
+input {
+    
+    outline: none;
+    border: none;
+    background: #111;
+    margin: 4px 0;
+    border-radius: 4px;
+    padding: 4px;
+    color: white;
+    margin-left: 60px;
+}
+button {
+    margin-left: 100px;
+    border-radius: 7px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    background: #390053;
+    color: white;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+input:hover {
+    background: #51025f;
+    letter-spacing: 1px;
+}
+input:focus{
+    background: #000;
+    transform: scale(1.1);
+}
+body {
+    background: #222;
+    color: #fff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h3 {
+    text-align: center;
+}
+a {
+    margin-left: 96px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+a:hover {
+    letter-spacing: 1px;
+    color: blue;
+}
+button:hover {
+    background: #51025f;
+    letter-spacing: 1px;
+}
+h4 {
+    text-align: center;
+    margin-top: 100px;
+}
+.creat {
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 2px auto;
+    width: 20%;
+    height: 370px;
+}
